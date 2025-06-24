@@ -1,6 +1,6 @@
 This repository presents a detailed sales performance analysis for **Chocofond Ltd**, a premium chocolate company. Using data analytics and business intelligence techniques, I developed an interactive dashboard that provides actionable insights into product performance, market demand, sales team efficiency, and seasonal trends.
 
-![Dashboard Preview](./(https://github.com/user-attachments/assets/86502768-3d55-466d-8ecf-0e1a438a52b6)
+C:\Users\Admin\Desktop\chocolate.jpeg
 )
 ## 📊 Project Overview
 
