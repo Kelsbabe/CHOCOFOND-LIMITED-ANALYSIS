@@ -12,6 +12,4 @@ This repository presents a detailed sales performance analysis for **Chocofond L
 
 ### 1. 📅 **January was the most profitable month**, generating **$896,105**, suggesting a seasonal demand spike (likely due to post-holiday purchases or New Year gifting). This presents an opportunity for targeted marketing campaigns at the start of each year.
 
-### 2. 🌏 **Australia led in box purchases (205 boxes)** and also ranked highest in revenue contribution, making it a **prime market** for expansion and customer loyalty initiatives.
-
-### 3. 🍬 **Smooth Silky Salty** emerged as the **top reve**
+### 2. 🌏 **Australia led in box purchases (205 boxes)** and also ranked highest in revenue contribution, making it a **prime market** for expansion and customer loyalty initiativ
